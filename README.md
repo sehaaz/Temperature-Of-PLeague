@@ -1,4 +1,4 @@
-## Temperature-Of-PL
+## Temperature-Of-PLeague
 ![EnglishPremierLeague vresize 350 350 medium 0](https://github.com/sehaaz/Temperature-Of-PL/assets/97370691/3aa13dab-51fd-4c00-adf5-a5533f99c589)
 
 This program evaluates the matches in the English Premier League. It tries to find the effect of temperature on the match result.
